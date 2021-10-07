@@ -11,30 +11,42 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Bandits Algorithm, University of Rennes 1, 2022 (expected)
+* Engineer's degree (equivalent to a master's degree) in Quantitative Marketing and Revenue Manadgement, ENSAI, 2018
+* Bachelor's degree (double degree with ENSAI cursus) in mathematical engineering, University of Rennes 1, 2016
+* Classe preparatoire MPSI/MP, Lycée Saint Louis, Paris, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since Sept 2018: Research Scientist 
+  * Digital innovation, Louis Vuitton
+  * Duties included: Recommendation Systems
+  * Supervisor: Bruno Guilbot, Eliot Barril
+ 
+* April 2018 - Sept 2018: Data Scientist Intern
+  * Lv_Lab, Louis Vuitton 
+  * Duties included: Personnalization of LV.com's search engine 
+  * Supervisor: Bruno Guilbot
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
+* Summer 2017: Research Intern
+  * Scoring center, BNP Paribas Personnal Finance
+  * Duties included: exploration of method of inclusion of high cardinality variable
+  * Supervisor: Olga Fazylova
+
+* Summer 2016: Intern
+  * Royal British Society of Scultpture
+  * Duties included: Touring, Archiving
+  * Supervisor: Marcus O'Neil
+
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Machine Learning
+  * clustering
+  * outlier detection
+  * scoring
+* Bandits 
+* Statistical Analysis
 
 Publications
 ======
@@ -50,10 +62,15 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+ * Recommendation System  : Pratical session (12h)
+ * Neural Network 2019 : Pratical session  (6h) 
   
-Service and leadership
+Project and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active member of Ensai Junion Consultant : stundent association
+  * 2015: head of internal control
+  * 2016: vice president
+* Project : Classification and forcast of days according to the number of hotel reservation, Disneyland Resord Paris, 2018
+* Project : Forcast of buses'consumptions, Transdev,2017
+* Data challenge : Optimisation of client satisfaction in railway, SNCF,2016
+* Project : Analysis of scoial and economical situation of artists affiliated to MDA, Culture Ministry, 2016

@@ -2,7 +2,7 @@
 title: "Position-Based Multiple-Play Bandits with Thompson Sampling"
 collection: publications
 permalink: /publication/IDA
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper present PB-MHB to tackle list recommendation under the Position Based Model .'
 date: 2009-10-01
 venue: 'IDA2021'
 paperurl: 'https://hal.archives-ouvertes.fr/hal-03163763/document'

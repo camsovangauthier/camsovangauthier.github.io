@@ -3,7 +3,6 @@ title: "Sur le métier"
 collection: Podcast
 type: "Talk"
 permalink: /talks/2021-06-01-surlemetier
-venue: "London School of Testing"
 date: 2021-06-01
 location: "Paris, France"
 ---

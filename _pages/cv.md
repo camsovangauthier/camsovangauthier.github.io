@@ -30,7 +30,7 @@ Work experience
 
 * Summer 2017: Research Intern
   * Scoring center, BNP Paribas Personnal Finance
-  * Duties included: exploration of method of inclusion of high cardinality variable
+  * Duties included: Inclusion of high cardinality variables' exploration
   * Supervisor: Olga Fazylova
 
 * Summer 2016: Intern

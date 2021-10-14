@@ -18,10 +18,10 @@ Education
 
 Work experience
 ======
-* Since Sept 2018: Research Scientist 
+* Since Sept 2018: PhD Student/Research Scientist  
   * Digital innovation, Louis Vuitton
   * Duties included: Recommendation Systems
-  * Supervisor: Bruno Guilbot, Eliot Barril
+  * Supervisor: Romaric Gaudel, Elisa Fromon, Bruno Guilbot & Eliot Barril
  
 * April 2018 - Sept 2018: Data Scientist Intern
   * Lv_Lab, Louis Vuitton 

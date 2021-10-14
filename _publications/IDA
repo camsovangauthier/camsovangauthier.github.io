@@ -1,0 +1,15 @@
+---
+title: "Position-Based Multiple-Play Bandits with Thompson Sampling"
+collection: publications
+permalink: /publication/IDA
+excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2009-10-01
+venue: 'IDA2021'
+paperurl: 'https://arxiv.org/pdf/2009.13181.pdf'
+citation: 'Gauthier, C.-S., Gaudel, R., Fromont, E.Position-based multiple-play bandits with thompson sam-pling.  IDA’21, 2021.'
+---
+This paper present PB-MHB a algorithm based on Thompson Sampling bandits and Metropolis Hasting method to adresse list recommendation under the Position Based Model.
+
+[Download paper here](https://arxiv.org/pdf/2009.13181.pdf)
+
+Recommended citation: Gauthier, C.-S., Gaudel, R., Fromont, E.Position-based multiple-play bandits with thompson sam-pling.  IDA’21, 2021.

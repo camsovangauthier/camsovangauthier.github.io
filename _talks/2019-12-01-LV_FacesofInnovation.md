@@ -2,7 +2,7 @@
 title: "Louis Vuitton - Faces of Innovation"
 collection: talks
 type: "Talk"
-permalink: /talks/2019-12-01-LV_FacesofInnovation.md
+permalink: /talks/2019-12-01-LV_FacesofInnovation
 date: 2019-12-01
 location: "Paris, France"
 ---

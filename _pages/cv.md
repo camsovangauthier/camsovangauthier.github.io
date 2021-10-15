@@ -60,14 +60,20 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
+Teaching & Supervision
 ======
  * Recommendation System  : Pratical session (12h)
  * Neural Network 2019 : Pratical session  (6h) 
-  
+ * Project supervision on 
+ * Intership on Contextual Bandit : Supervision of Léa Fortat (6 month) 
+
+
 Project and leadership
 ======
-* Active member of Ensai Junion Consultant : stundent association
+* Project supervision 
+  * title : "Contextual dynamic recommendation system for Louis Vuitton's website"
+  * type : Final Project, supervision of three students during 5 month to help them apply what they learned on an industrial problematic
+* Active member of Ensai Junior Consultant : stundent association
   * 2015: head of internal control
   * 2016: vice president
 * Project : Classification and forcast of days according to the number of hotel reservation, Disneyland Resord Paris, 2018

@@ -9,19 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Bandits Algorithm, University of Rennes 1, 2022 (expected)
-* Engineer's degree (equivalent to a master's degree) in Quantitative Marketing and Revenue Manadgement, ENSAI, 2018
-* Bachelor's degree (double degree with ENSAI cursus) in mathematical engineering, University of Rennes 1, 2016
-* Classe preparatoire MPSI/MP, Lycée Saint Louis, Paris, 2015
-
 Work experience
 ======
-* Since Sept 2018: PhD Student/Research Scientist  
+* Since March 2019: PhD Student/Research Scientist  
   * Digital innovation, Louis Vuitton
   * Duties included: Recommendation Systems
   * Supervisor: Romaric Gaudel, Elisa Fromon, Bruno Guilbot & Eliot Barril
+
+* Sept 2018 - Feb 2019: Research Scientist  
+  * Digital innovation, Louis Vuitton
+  * Duties included: Recommendation Systems, Navigation Analysis
+  * Manager: Bruno Guilbot
  
 * April 2018 - Sept 2018: Data Scientist Intern
   * Lv_Lab, Louis Vuitton 
@@ -38,6 +36,12 @@ Work experience
   * Duties included: Touring, Archiving
   * Supervisor: Marcus O'Neil
 
+Education
+======
+* Ph.D in Bandits Algorithm, University of Rennes 1, 2022 (expected)
+* Engineer's degree (equivalent to a master's degree) in Quantitative Marketing and Revenue Manadgement, ENSAI, 2018
+* Bachelor's degree (double degree with ENSAI cursus) in mathematical engineering, University of Rennes 1, 2016
+* Classe preparatoire MPSI/MP, Lycée Saint Louis, Paris, 2015
 
 Skills
 ======

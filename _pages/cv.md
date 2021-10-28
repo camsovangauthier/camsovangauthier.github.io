@@ -64,7 +64,6 @@ Teaching & Supervision
 ======
  * Recommendation System  : Pratical session (12h)
  * Neural Network 2019 : Pratical session  (6h) 
- * Project supervision on 
  * Intership on Contextual Bandit : Supervision of Léa Fortat (6 month) 
 
 

@@ -76,6 +76,9 @@ Project and leadership
 * Project supervision 
   * title : "Contextual dynamic recommendation system for Louis Vuitton's website"
   * type : Final Project, supervision of three students during 5 month to help them apply what they learned on an industrial problematic
+* Multiple Hackathon within Louis Vuitton and LVMH ecosystem 
+  * Various subject : supply chain, data, CRM, media ... 
+  * exemple : [DARE](https://www.lvmh.fr/groupe/engagements/leadership-entrepreneuriat/dare-initiative-lvmh/)
 * Active member of Ensai Junior Consultant : stundent association
   * 2015: head of internal control
   * 2016: vice president

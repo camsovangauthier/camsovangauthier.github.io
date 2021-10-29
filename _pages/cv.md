@@ -38,9 +38,9 @@ Work experience
 
 Education
 ======
-* Ph.D in Bandits Algorithm, University of Rennes 1, 2022 (expected)
+* Ph.D in Computer Sciences, subject: Recommendation system and Bandits Algorithm, University of Rennes 1, 2022 (expected)
 * Engineer's degree (equivalent to a master's degree) in Quantitative Marketing and Revenue Manadgement, ENSAI, 2018
-* Bachelor's degree (double degree with ENSAI cursus) in mathematical engineering, University of Rennes 1, 2016
+* Bachelor's degree (double degree with ENSAI cursus) in Mathematical engineering, University of Rennes 1, 2016
 * Classe preparatoire MPSI/MP, Lycée Saint Louis, Paris, 2015
 
 Skills
@@ -66,23 +66,23 @@ Talks
   
 Teaching & Supervision
 ======
- * Recommendation System  : Pratical session (12h)
- * Neural Network 2019 : Pratical session  (6h) 
- * Intership on Contextual Bandit : Supervision of Léa Fortat (6 month) 
+ * Recommendation System : Pratical session (12h)
+ * Neural Network 2019: Pratical session  (6h) 
+ * Intership on Contextual Bandit: Supervision of Léa Fortat (6 month) 
 
 
 Project and leadership
 ======
 * Project supervision 
-  * title : "Contextual dynamic recommendation system for Louis Vuitton's website"
-  * type : Final Project, supervision of three students during 5 month to help them apply what they learned on an industrial problematic
+  * title: "Contextual dynamic recommendation system for Louis Vuitton's website"
+  * type: Final Project, supervision of three students during 5 month to help them apply what they learned on an industrial problematic
 * Multiple Hackathon within Louis Vuitton and LVMH ecosystem 
-  * Various subject : supply chain, data, CRM, media ... 
-  * example : [DARE](https://www.lvmh.fr/groupe/engagements/leadership-entrepreneuriat/dare-initiative-lvmh/)
+  * Various subject: supply chain, data, CRM, media ... 
+  * example: [DARE](https://www.lvmh.fr/groupe/engagements/leadership-entrepreneuriat/dare-initiative-lvmh/)
 * Active member of Ensai Junior Consultant : stundent association
   * 2015: head of internal control
   * 2016: vice president
-* Project : Classification and forcast of days according to the number of hotel reservation, Disneyland Resord Paris, 2018
-* Project : Forcast of buses'consumptions, Transdev,2017
-* Data challenge : Optimisation of client satisfaction in railway, SNCF,2016
-* Project : Analysis of scoial and economical situation of artists affiliated to MDA, Culture Ministry, 2016
+* Project: Classification and forcast of days according to the number of hotel reservation, Disneyland Resord Paris, 2018
+* Project: Forcast of buses'consumptions, Transdev,2017
+* Data challenge: Optimisation of client satisfaction in railway, SNCF,2016
+* Project: Analysis of scoial and economical situation of artists affiliated to MDA, Culture Ministry, 2016
